@@ -1,5 +1,5 @@
-A CSS–Ruby
-==========
+A CSS-only Ruby
+===============
 I built and designed a Ruby.
 
 * CSS only
