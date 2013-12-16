@@ -2,6 +2,9 @@ A CSS-only Ruby
 ===============
 I built and designed a Ruby.
 
+Check it out here: danbender.github.io/a-ruby-in-pure-css
+
+
 * CSS only
 * No images
 * Only two`div` used
@@ -9,7 +12,6 @@ I built and designed a Ruby.
 
 I wrote a tutorial to document the steps I took to create it: **[Read here](http://blog.danbender.net/post/63866309094/css-experiment-a-css-only-ruby)**.
 
-Check it out here: danbender.github.io
 
 
 ![Post-it Board](http://i.minus.com/jbyOEQ1NM4GVw3.jpg)
