@@ -2,7 +2,7 @@ A CSS-only Ruby
 ===============
 I built and designed a Ruby.
 
-Check it out here: danbender.github.io/a-ruby-in-pure-css
+Check it out here: http://danbender.github.io/a-ruby-in-pure-css
 
 
 * CSS only
